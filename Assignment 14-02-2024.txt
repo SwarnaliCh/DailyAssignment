@@ -1,0 +1,34 @@
+1)  Research and list at least five benefits of cloud computing over traditional on premises infrastructure:
+      1. On-premise infrastructure allows us to store data and run services locally.
+           Cloud computing must be accessed over the internet, with our data and services saved on the service provider's servers.
+      2. On-premise systems can cost more than cloud computing since they require physical installation of hardware and maintenance.
+           Cloud computing has only a subscription cost, which varies according to the business’s requirements.
+      3. On-premise systems take time to install the hardware.
+           Cloud computing is easy to deploy and can be set up within hours.
+      4. Initial capital investment for an on-premise system is quite high.
+           Cloud computing is much cheaper and entails paying for a subscription.
+      5. On-premise systems require continual maintenance.
+           In cloud computing the need for physical space, huge capital investments, and technical expertise is eliminated.
+
+
+2)  Describe the CapEx and OpEx models of financing IT infrastructure, providing examples of when each model might be preferred:
+      CapEx: 
+      It corresponds to the costs incurred for the purchase of infrastructure, such as hardware (e.g. servers) and equipment, that generally have a lifespan of two to 10 years, 
+      depending on the depreciation value. With a CapEx budget item, the business incurs the expense in the present and expects to generate profit in the future.
+      A few IT expenses that are included in CapEx are:
+      1. Long-term value creation.
+      2. Strategic growth and competitiveness.
+      3. Asset ownership and appreciation.
+      4. Tax benefits and financial optimization.
+
+      OpEx:
+      It refers to the day-to-day operational expenses that support the business. These typically include general and administrative expenses, employee wages, research and development, 
+      cost of goods sold (COGS), maintenance, repair costs, leases, etc. Unlike CapEx, OpEx has no or low upfront costs and allows companies to spread their expenses over a period of time.
+      OpEx includes IT costs for:
+      1. Cloud computing subscriptions (e.g., IaaS, SaaS or PaaS)
+      2. Equipment leases
+      3. Software maintenance (e.g., associated with a perpetual license) – typically annual costs
+      4. Software subscriptions
+      5. Utilities, telecom and internet services
+      6. Operational efficiency and flexibility
+      7. Agility and scalability
